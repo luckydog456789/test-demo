@@ -2,6 +2,6 @@ package main;
 
 public class main {
     public static void main(String[] args) {
-        System.out.println("这是我的第一个git文件");
+        System.out.println("hello world");
     }
 }
